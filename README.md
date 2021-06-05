@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JuanAlbertoQuezada
+- 👀 I’m interested in software Engineering and Embedded Software systems
+- 🌱 I’m currently learning C++, Python and ARM
+- 💞️ I’m looking to collaborate on Video games, embedded devices
+- 📫 How to reach me: email: jalbertofq@gmail.com
